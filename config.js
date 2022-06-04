@@ -12,12 +12,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6289654565010']
+global.owner = ['6285850539404,6289654565010']
 global.premium = ['089654565010']
 global.ownername = 'Jarot'
 global.botname = 'RakaBOTZ-MD'
-global.packname = '© RakaBOTZ - MULTI DEVICE'
-global.gc = ''
+global.packname = '© TAHESBOTZ - MULTI DEVICE'
+global.gc = 'https://chat.whatsapp.com/E5l0ofPuMxG3H8ZhMRyI7e'
 global.limitawal = '100'
 global.author = ''
 global.sessionName = 'session'
@@ -40,9 +40,9 @@ global.limitawal = {
 }
 global.sc = fs.readFileSync('./media/sc.jpg')
 global.tq = fs.readFileSync('./media/tq.jpg')
-global.menu = fs.readFileSync('./media/IMG-20220604-WA0007.jpg')
+global.menu = fs.readFileSync('./media/Haruno.jpg')
 global.allmenu = fs.readFileSync('./media/allmenu.jpg')
-global.thumb = fs.readFileSync('./media/IMG-20220604-WA0033.jpg')
+global.thumb = fs.readFileSync('./media/Haruno.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
