@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285850539404,6289654565010']
+global.owner = ['6285850539404']
 global.premium = ['089654565010']
 global.ownername = 'Jarot'
 global.botname = 'RakaBOTZ-MD'
