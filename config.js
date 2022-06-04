@@ -12,11 +12,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281322667077']
-global.premium = ['0']
-global.ownername = 'Romli Suhanda'
-global.botname = 'ZxyuuBOTZ-MD'
-global.packname = '© ZxyuuBOTZ - MULTI DEVICE'
+global.owner = ['6289654565010']
+global.premium = ['089654565010']
+global.ownername = 'Jarot'
+global.botname = 'RakaBOTZ-MD'
+global.packname = '© RakaBOTZ - MULTI DEVICE'
 global.gc = ''
 global.limitawal = '100'
 global.author = ''
