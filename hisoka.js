@@ -2886,8 +2886,8 @@ untuk membuat stiker dan lain lain
 `
                 let btn = [{
                                 urlButton: {
-                                    displayText: 'Instagram',
-                                    url: 'https://instagram.com/Romli II'
+                                    displayText: 'youtube',
+                                    url: 'https://youtu.be/sKYZri1Envg'
                                 }
                             }, {
                                 quickReplyButton: {
